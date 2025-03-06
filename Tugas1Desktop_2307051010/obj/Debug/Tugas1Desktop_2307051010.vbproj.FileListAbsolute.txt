@@ -1,0 +1,11 @@
+c:\users\user\documents\visual studio 2013\Projects\Tugas1Desktop_2307051010\Tugas1Desktop_2307051010\bin\Debug\Tugas1Desktop_2307051010.exe.config
+c:\users\user\documents\visual studio 2013\Projects\Tugas1Desktop_2307051010\Tugas1Desktop_2307051010\obj\Debug\Tugas1Desktop_2307051010.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\Tugas1Desktop_2307051010\Tugas1Desktop_2307051010\obj\Debug\Tugas1Desktop_2307051010.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\Tugas1Desktop_2307051010\Tugas1Desktop_2307051010\obj\Debug\Tugas1Desktop_2307051010.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\Tugas1Desktop_2307051010\Tugas1Desktop_2307051010\bin\Debug\Tugas1Desktop_2307051010.exe
+c:\users\user\documents\visual studio 2013\Projects\Tugas1Desktop_2307051010\Tugas1Desktop_2307051010\bin\Debug\Tugas1Desktop_2307051010.pdb
+c:\users\user\documents\visual studio 2013\Projects\Tugas1Desktop_2307051010\Tugas1Desktop_2307051010\bin\Debug\Tugas1Desktop_2307051010.xml
+c:\users\user\documents\visual studio 2013\Projects\Tugas1Desktop_2307051010\Tugas1Desktop_2307051010\obj\Debug\Tugas1Desktop_2307051010.Form2.resources
+c:\users\user\documents\visual studio 2013\Projects\Tugas1Desktop_2307051010\Tugas1Desktop_2307051010\obj\Debug\Tugas1Desktop_2307051010.exe
+c:\users\user\documents\visual studio 2013\Projects\Tugas1Desktop_2307051010\Tugas1Desktop_2307051010\obj\Debug\Tugas1Desktop_2307051010.xml
+c:\users\user\documents\visual studio 2013\Projects\Tugas1Desktop_2307051010\Tugas1Desktop_2307051010\obj\Debug\Tugas1Desktop_2307051010.pdb
